@@ -14,7 +14,7 @@ public class SumaNumeros
         System.out.print( "Introduzca segundo número: " );
         n2 = teclado.nextInt();
 
-        suma = n1 + n2;
+        suma = n1 - n2;
 
         System.out.println( "La suma de " + n1 + " más " + n2 + " es " + suma + "." );
     }
