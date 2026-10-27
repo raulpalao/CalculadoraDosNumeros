@@ -14,7 +14,7 @@ public class RestaNumeros
         System.out.print( "Introduzca segundo número: " );
         n2 = teclado.nextInt();
 
-        resta = n1 - n2;
+        resta = n1 + n2;
 
         System.out.println( "La resta de " + n1 + " y " + n2 + " es " + resta + "." );
     }
